@@ -1,0 +1,9 @@
+﻿Value A
+Value B
+
+
+Value C = Value A * Value A
+Value D = Value B * Value B
+
+
+Value E = Value C + Value D
